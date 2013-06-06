@@ -9,6 +9,7 @@ public class main {
 		Course c = new Course("4bhif");
 		
 		System.out.println("foo " + c.getName());
+		//hier ist ein kommentar
 	}
 
 }
